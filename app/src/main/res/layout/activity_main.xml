@@ -1,0 +1,27 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".MainActivity" >
+<EditText
+    android:id="@+id/str_id"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:hint="Enter Your Text Here ….."
+    android:inputType="textMultiLine"
+    android:lines="10" >
+
+<requestFocus />
+    </EditText>
+
+<Button
+    android:id="@+id/btn_id"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Convert To Image" />
+
+    </LinearLayout>
