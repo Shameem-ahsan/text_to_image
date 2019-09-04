@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TexttoImage.iml" filepath="$PROJECT_DIR$/TexttoImage.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text_to_image.iml" filepath="$PROJECT_DIR$/text_to_image.iml" />
     </modules>
   </component>
 </project>
